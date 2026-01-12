@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+*~
+~$*
+
+# Temporary / swap files
+*.tmp
+*.swp
+*.swo
