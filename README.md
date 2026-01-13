@@ -7,6 +7,7 @@ This repo exists to store CAD files / exports and keep history in one place.
 This repo uses **Git LFS** for CAD binaries and exports (SolidWorks, STEP, STL, DXF, PDF, etc.).
 
 ### One-time setup (per computer)
+See team wiki for detailed instructions.
 1) Install Git LFS
 2) Run:
    ```bash
